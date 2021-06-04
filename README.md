@@ -10,20 +10,22 @@
 
 # Abstract
 
-[NFTArtem](https://nftartem.com) defines NFT legal framework and metadata standard to creates an opportunity to digitalize/tokenize, custody and sell physical art certificate of ownership as NFT to collectors and investors via XRPL.
+[NFTArtem](https://nftartem.com) defines the NFT legal framework and metadata standard. Creating an opportunity to digitalize/tokenize, custody and sell physical art certificate of ownership as NFT to collectors and investors via XRPL.
 
-- **Our vision** is to create a bridge between analog and digital art markets by standardized legal framework bind with NFT on XRP Ledger.
-- **Our mission** is to helps artists, art brokers, and galleries digitalise and promote arts via blockchain, NFT and XRPL technology.
+- **Our vision** is to create a bridge between analog and digital art markets with a standardized legal framework, bound with an NFT on XRP Ledger.
+- **Our mission** is to helps artists, art brokers, and galleries digitalise and promote art via the blockchain, through NFT and XRPL technology.
 - **Our PoC** is to provide:
-  - `open-source NFT legal framework`
-  - standardized together with artists, art dealers and investors `metadata template`,
-  - `open-source serverless API`
-  - [global marketplace](https://nftartem.com) to provide liquidity via NFT XRPL for the art industry
+  - `Open-source NFT legal framework.`
+  - `Metadata template`, standardized together with artists, art dealers, and investors.
+  - `Open-source serverless API.`
+  - [global marketplace](https://nftartem.com) to provide liquidity via NFT and XRPL for the art industry.
 
 
 # Motivation
 
-NFT, especially represent physical object ownership, simplify trading and provide liquidity between global regions like Europe and Asia. NFT open the door to trade any physical assets and could be used to provide outstanding liquidity. We want to help hedge funds, family offices and institutional investors manage and trade physical art as a digital form of ownership certificate (NFT).
+NFT, especially if it represents ownership of a physical object, simplifies trading and provides liquidity between global regions like Europe and Asia. 
+NFT open the door to trade any physical assets and could be used to provide outstanding liquidity. 
+We want to help hedge funds, family offices, and institutional investors manage and trade physical art as a digital form of ownership certificate (NFT).
 
 
 # Background
@@ -33,16 +35,17 @@ Non-Fungible Token is the registration of ownership of a digital object on a blo
 
 The technology ensures traceability and transparency of provenance, making information about past sellers and prices publicly available, consequently reducing the possibility of fraud.
 
-We are going to promote the NFTArtem legal framework, XRPL standard and open-source serverless API across related to the art and investment institutions. Directly supports museums, auction houses and art dealers with open source ready to use solutions.
+We will directly support museums, auction houses, and art dealers with open-source ready-to-use solutions.
+We promote the NFTArtem legal framework, XRPL standard, and open-source serverless API across the industry, especially art and investment institutions.
 
 
 # Standard
 
-NFTArtem standard represents the certificate of ownership of the physical object and custody standard agreement (e.g., clearinghouse or museum) as a legal framework bind with NFT XRPL.
+NFTArtem standard represents the certificate of ownership of the physical object and custody agreement (e.g., clearinghouse or museum) as a legal framework bind with NFT XRPL.
 
-The legal framework and NFT metadata standards are building together with both sides of the market and shall be widely adopted by museums, clearing houses, art dealers, artists, collectors and investors - helping trade art more freely, providing liquidity to the buyers and sellers.
+The legal framework and NFT metadata standard is built together with experts on both sides of the market and should be widely adopted by museums, clearinghouses, art dealers, artists, collectors, and investors - helping trade art more freely, providing liquidity to the market with buyers and sellers.
 
-  - The NFT owner (trader or collector) can claim the physical object, and the digital representation (NFT) shall be revoked.
+  - The NFT owner (trader or collector) can claim the physical object, and the digital representation (NFT) will be revoked.
   - NFT & legal standard supports shared ownership, partial ownership rights, and fractionalization incentives.
 
 ## NFT Legal Framework
