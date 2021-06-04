@@ -50,6 +50,7 @@ The legal framework and NFT metadata standards are building together with both s
 ```yml
 title: DIGITAL CREATION LICENSE AGREEMENT
 template: https://github.com/dplaneta/nftartem/legal
+certificate: true
 
 author:
   type: "Artist"
@@ -181,6 +182,11 @@ signed:
         },
         {
             "file": "/uri/legal_framework.yml",
+            "cid": "D9wPjJo2BHg8NeXQYTD9wXJeNSY6NqmDQmRe6bYHv4XtsA",
+            "sha256": "a9941afde156fc87aa058a85e57ef51475fe83169530a16403a9941a9941afde"
+        },
+        {
+            "file": "/uri/certificate.pdf",
             "cid": "QmRe6bYHv4XtsA8oXJeNSY6NqmDYa9Q3JBhUtZCEAC6yDQ",
             "sha256": "7ef51475fe83169530a16403a9941afde156fc87aa058a8500131a23de600f9a"
         }
@@ -198,6 +204,7 @@ uri/
   - preview.mp4
   - legal.yml
   - meta.json
+  - certificate.pdf
   ...
   - file1
   - file2

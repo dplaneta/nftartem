@@ -1,0 +1,37 @@
+{
+  "name": "NFTXRPDeploy",
+  "version": "0.0.1",
+  "description": "Google Function to create NFT certificate of physical art ownership in NFTArtem standard on XRP Ledger.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dplaneta/nftartem.git"
+  },
+  "keywords": [
+    "nftartem",
+    "nft",
+    "xrp",
+    "ipfs",
+    "api",
+    "cloud",
+    "serverless"
+  ],
+  "author": "Dawid Planeta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dplaneta/nftartem/issues"
+  },
+  "homepage": "https://github.com/dplaneta/nftartem#readme",
+  "dependencies": {
+    "ripple-lib": "^1.9.5",
+    "xrpl-tagged-address-codec": "^0.2.1",
+    "bufferutil": "^4.0.3",
+    "utf-8-validate": "5.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.27.0"
+  }
+}
